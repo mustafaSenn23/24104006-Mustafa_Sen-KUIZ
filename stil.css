@@ -77,7 +77,7 @@ html {
 .shape-image-1 {
     width: 500px;
     height: 400px;
-    background-image: url('images (4).jfif');
+    background-image: url('images.jfif');
     top: 10%;
     left: -100px;
     animation: float 20s ease-in-out infinite;
@@ -88,7 +88,7 @@ html {
 .shape-image-2 {
     width: 450px;
     height: 350px;
-    background-image: url('indir.jfif');
+    background-image: url('download.jfif');
     bottom: 5%;
     right: -80px;
     animation: float 25s ease-in-out infinite reverse;
