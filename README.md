@@ -1,1 +1,0 @@
-# 24104006-Mustafa_Sen-KUIZ
